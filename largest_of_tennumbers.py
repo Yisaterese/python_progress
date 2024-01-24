@@ -1,8 +1,8 @@
-numbers = int(input("Enter number: "))
-counter = 0
+#numbers = int(input("Enter number: "))
+counter = 1
 largest = 0
 
-while counter < 10:
+while counter < 3:
 	numbers = int(input("Enter number: "))
 	if numbers > largest:
 		numbers = largest
